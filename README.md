@@ -1,8 +1,19 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎬 Movies Club - IMDB Clone
 
-Currently, two official plugins are available:
+📌 Overview
+Movies Club is a movie discovery web app built with React + Vite. It fetches real-time movie data from The Movie Database (TMDB) API and displays trending movies. Users can browse popular movies, view details, and manage a watchlist.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⚡ Features
+✔️ Fetches trending movies using TMDB API
+✔️ Displays movie posters, titles, and details
+✔️ Pagination to browse through movie lists
+✔️ Watchlist feature to add/remove favorites
+✔️ Responsive UI for desktop
+
+🛠️ Tech Stack
+Frontend: React, Vite, Tailwind CSS
+State Management: useState, useEffect
+API Handling: Axios (TMDB API)
+Deployment: Netlify
