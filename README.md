@@ -1,6 +1,8 @@
 # React + Vite
 
-🎬 Movies Club - IMDB Clone
+🎬 Movies Club - IMDB Clone 
+🚀 Live Demo
+🔗 Movies Club - Live Site
 
 📌 Overview
 Movies Club is a movie discovery web app built with React + Vite. It fetches real-time movie data from The Movie Database (TMDB) API and displays trending movies. Users can browse popular movies, view details, and manage a watchlist.
